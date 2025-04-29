@@ -29,6 +29,9 @@ It's designed to demonstrate practical skills in cloud resource monitoring, data
 - Jupyter Notebook
 - Simulated data generated manually
 
+## Sample Visuals
+- Seen in the `images` folder
+
 ## Future Ideas
 
 - Integrate with real Azure Monitor data using APIs
