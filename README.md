@@ -1,4 +1,4 @@
-# VM Monitoring Dashboard (Python)
+# VM Monitoring Analysis (Python)
 
 This project simulates the analysis of virtual machine (VM) health and performance in a cloud infrastructure setting using Python. 
 It's designed to demonstrate practical skills in cloud resource monitoring, data analysis, and reporting.
